@@ -1,4 +1,4 @@
-# code-cleanup-pruner skill repo
+# code-cleanup-pruner skill
 
 Repository ready for installation with `npx skills`.
 
