@@ -1,4 +1,0 @@
-interface:
-  display_name: "Code Cleanup Pruner"
-  short_description: "Remove dead code and duplication safely with tests."
-  default_prompt: "Analyze the repository, identify duplicate and unused code, apply minimal safe removals, and validate with tests before finishing."
