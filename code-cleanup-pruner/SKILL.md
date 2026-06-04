@@ -60,4 +60,6 @@ Avoid risky removals unless explicitly requested:
 ## Resources
 
 1. `scripts/find_duplicate_blocks.py`: reports repeated normalized code windows to triage dedup opportunities.
-2. `references/safe-removal-checklist.md`: final validation checklist for dead-code/duplication cleanup.
+2. `scripts/duplicate_blocks_*.py`: helper modules used by the duplicate-block scanner.
+3. `tests/test_find_duplicate_blocks.py`: regression tests for the bundled scanner.
+4. `references/safe-removal-checklist.md`: final validation checklist for dead-code/duplication cleanup.
